@@ -1,4 +1,4 @@
-# online-restaurant-app
+# BRACUCSE471Project
 This is a project of CSE471 course. 
 Team : 
       1. Kazi Md Minhajul Haider ID - 18101708
