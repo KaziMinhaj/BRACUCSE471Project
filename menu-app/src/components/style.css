@@ -1,0 +1,25 @@
+.card-style {
+  width: 18rem;
+}
+.orderItems {
+  margin-top: 6.3%;
+  position: fixed;
+  right: 0;
+  top: 0;
+  margin-right: 3.5%;
+}
+.login {
+  margin-top: 5%;
+  margin-left: 5%;
+  position: absolute;
+}
+.welcomePage {
+  margin-top: 5%;
+  display: flexbox;
+}
+.slide {
+  margin-top: 4%;
+  margin-bottom: 5%;
+
+  display: fit;
+}
