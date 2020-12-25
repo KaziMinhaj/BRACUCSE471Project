@@ -15,7 +15,7 @@ class Order extends Component {
             </li>
           );
         }
-        //else calculate price 
+        //else calculate price of the fish
         return (
           <li key={key}>
             {count} lbs {fish.name}
